@@ -36,7 +36,24 @@ Predicciones con el mejor modelo iV3:
 
 Gráficas del primer modelo iV3:
 
+![primeriv3](https://user-images.githubusercontent.com/104474575/204083204-711c8ec6-e9f0-4a22-bf4d-56f1978b8d27.png)
+
 Gráficas del segundo modelo iV3:
 
+![segundov3](https://user-images.githubusercontent.com/104474575/204083226-ca8da354-54a9-4ea9-9867-bc41991a0177.png)
+
 Con esto se determinó que el segundo modelo tiene un mejor rendimiento, por lo cual fue el modelo seleccionado.
+![mount3](https://user-images.githubusercontent.com/104474575/204083260-e9a65232-53b6-4b6d-95e8-4aa22803257a.png)
+![mount4](https://user-images.githubusercontent.com/104474575/204083261-07e54dd5-7301-4bd5-b6d4-13e6251e9ebc.png)
+![sea3](https://user-images.githubusercontent.com/104474575/204083262-8afd4cfb-8b0c-4ed4-9066-cc91490ff8d7.png)
+![sea4](https://user-images.githubusercontent.com/104474575/204083264-aeab679f-e87d-4e4a-985d-865a8497418e.png)
+![street3](https://user-images.githubusercontent.com/104474575/204083265-c627ff05-281f-438f-afe3-90948ed9b350.png)
+![street4](https://user-images.githubusercontent.com/104474575/204083289-e243c16e-282a-4e35-9296-8c35ffa6bac2.png)
+![building3](https://user-images.githubusercontent.com/104474575/204083248-602b4221-940c-4dd0-bc53-e9356355a008.png)
+![building4](https://user-images.githubusercontent.com/104474575/204083253-f109c6db-6863-46fd-a69c-d3d481dd9f53.png)
+![forest3](https://user-images.githubusercontent.com/104474575/204083255-24ddf919-ffeb-4cba-9ff9-f34551629a15.png)
+![forest4](https://user-images.githubusercontent.com/104474575/204083256-17c7659b-dc89-4666-9266-653c29c388c4.png)
+![gla3](https://user-images.githubusercontent.com/104474575/204083257-85dda712-3999-4d73-8c9b-9e02ca0ece0e.png)
+![gla4](https://user-images.githubusercontent.com/104474575/204083258-d538b599-5aa6-4ed2-bf84-ea0a9f747c7a.png)
+
 
